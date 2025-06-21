@@ -30,6 +30,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> Feedback and contributions are welcome!
-
 *This README was generated with the help of AI*
